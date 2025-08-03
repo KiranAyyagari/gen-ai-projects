@@ -1,0 +1,53 @@
+{
+  "messages": [
+    {
+      "type": "human",
+      "data": {
+        "content": "can you please let me know how to check credits in chatgpt billing",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "human",
+        "name": null,
+        "id": "cec12cd2-76e6-465e-9302-e4456a695615",
+        "example": false
+      }
+    },
+    {
+      "type": "ai",
+      "data": {
+        "content": "Billing Question",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "ai",
+        "name": null,
+        "id": "9842ba6a-6e54-47d3-ad27-4bb0680c656c",
+        "example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "usage_metadata": null
+      }
+    },
+    {
+      "type": "ai",
+      "data": {
+        "content": "Hello! To check your credits in ChatGPT billing, please log in to your OpenAI account and navigate to the billing section. There, you'll find detailed information about your current credits, usage, and payment history. If you need any help accessing this or have further questions, feel free to ask!",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "ai",
+        "name": null,
+        "id": "aee682e6-a7eb-4d5b-a621-5753008c58ee",
+        "example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "usage_metadata": null
+      }
+    }
+  ],
+  "question": "can you please let me know how to check credits in chatgpt billing",
+  "intent_classification": "Billing Question",
+  "sales_resolution": null,
+  "urgency_classification": null,
+  "billing_resolution": "Hello! To check your credits in ChatGPT billing, please log in to your OpenAI account and navigate to the billing section. There, you'll find detailed information about your current credits, usage, and payment history. If you need any help accessing this or have further questions, feel free to ask!",
+  "escalation": null,
+  "automated_support": null
+}
